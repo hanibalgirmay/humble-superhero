@@ -9,8 +9,8 @@ This a mono repo includes the following packages/apps:
 
 ### Apps
 
-- `backend`: a [Nest.js](https://nestjs.org/) app
-- `frontend`: a [vite.js](https://vite.org/) app
+- `backend`: a [Nest.js](https://nestjs.com/) app
+- `frontend`: a [vite.js](https://vite.dev/) app
 - `@repo/eslint-config`: `eslint` configurations (includes `eslint-config-next` and `eslint-config-prettier`)
 - `@repo/typescript-config`: `tsconfig.json`s used throughout the monorepo
 
